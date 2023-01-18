@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ivan Mauricio Ochoa Salamanca</h1>
+<h1 align="center">Hola 👋, Soy Ivan Mauricio Ochoa Salamanca</h1>
 <h3 align="center">También conocido como Maochoa91 en GitHub</h3>
 
 <h3 align="left">Acerca de mi:</h3>
